@@ -1,0 +1,7 @@
+README.md
+setup.py
+py_qmc5883l/__init__.py
+py_qmc5883l.egg-info/PKG-INFO
+py_qmc5883l.egg-info/SOURCES.txt
+py_qmc5883l.egg-info/dependency_links.txt
+py_qmc5883l.egg-info/top_level.txt
