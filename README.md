@@ -1,3 +1,2 @@
-# Machine_Learning
 # Course taught by Andrew Ng on Coursera
-# Above files are the excercises in the course 
+ Above files are the excercises in the course 
